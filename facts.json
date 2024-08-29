@@ -1,9 +1,9 @@
 {
-  "event_date": "30.9.2023",
+  "event_date": "28.9.2024",
   "url_main": "https://www.linuxday.at/",
-  "url_standplan": "https://www.linuxday.at/standplan-2023",
-  "url_vortraege": "https://www.linuxday.at/vortraege/2023",
-  "url_aussteller": "https://www.linuxday.at/aussteller/2023",
+  "url_standplan": "https://www.linuxday.at/standplan-2024",
+  "url_vortraege": "https://www.linuxday.at/vortraege/2024",
+  "url_aussteller": "https://www.linuxday.at/aussteller/2024",
   "url_linuxday_ort": "https://www.linuxday.at/ort.html",
-  "url_linuxday_ics": "https://www.linuxday.at/vortraege/2023/calendar.ics"
+  "url_linuxday_ics": "https://www.linuxday.at/vortraege/2024/calendar.ics"
 }
